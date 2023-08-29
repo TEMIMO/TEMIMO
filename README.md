@@ -1,5 +1,3 @@
-<p align='center'><a href="https://github.com/TEMIMO"><img width="750" src="https://raw.githubusercontent.com/TEMIMO/TEMIMO/main/image1.jpg" /></a></p>
-
 # Hey, I'm Artemy 👋
 
 - 🧑‍💻 Enthusiastic Software Engineer
@@ -12,3 +10,5 @@
 - 📫 How to reach me: [email](mailto:artemymif@gmail.com), and various places on the Internet :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a certified dragon trainer, seriously 😃🐉
+
+- <p align='center'><a href="https://github.com/TEMIMO"><img width="450" src="https://raw.githubusercontent.com/TEMIMO/TEMIMO/main/image.jpg" /></a></p>
