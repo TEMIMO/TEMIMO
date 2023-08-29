@@ -1,4 +1,4 @@
-<p align='center'><a href="https://github.com/TEMIMO"><img width="450" src="https://raw.githubusercontent.com/TEMIMO/TEMIMO/main/image1.jpg" /></a></p>
+<p align='center'><a href="https://github.com/TEMIMO"><img width="750" src="https://raw.githubusercontent.com/TEMIMO/TEMIMO/main/image1.jpg" /></a></p>
 
 # Hey, I'm Artemy 👋
 
