@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hey, I'm Artemy 👋
 
-<!--
-**TEMIMO/TEMIMO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Enthusiastic Software Engineer
+- 🔭 Working in the [42 Team](https://answer-42.ru/)
+- 🌎 Originally from Russia, now in Saint-Petersburg
+- 🌱 I’m currently learning playing the guitar 🎸
+- 👯 I’m looking to collaborate on Java, Spring, Cloud and related technologies
+- 🤔 I’m looking for biking trips 
+- 💬 Ask me about Java, Spring, Cloud and related technologies
+- 📫 How to reach me: [email](mailto:artemymif@gmail.com), and various places on the Internet :)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a certified dragon trainer, seriously 😃🐉
