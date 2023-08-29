@@ -11,4 +11,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a certified dragon trainer, seriously 😃🐉
 
-- <p align='center'><a href="https://github.com/TEMIMO"><img width="650" src="https://raw.githubusercontent.com/TEMIMO/TEMIMO/main/image2.jpg" /></a></p>
+- <p align='center'><a href="https://github.com/TEMIMO"><img width="650" src="https://raw.githubusercontent.com/TEMIMO/TEMIMO/main/image2.jpeg" /></a></p>
