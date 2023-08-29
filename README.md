@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Enthusiastic Software Engineer
 - 🔭 Working in the [42 Team](https://answer-42.ru/)
-- 🌎 Originally from Russia, now in Saint-Petersburg
+- 🌎 Now in Saint-Petersburg
 - 🌱 I’m currently learning playing the bocce 
 - 👯 I’m looking to collaborate on Java, Spring, Cloud and related technologies
 - 🤔 I’m looking for biking trips 
